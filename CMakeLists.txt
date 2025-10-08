@@ -3,8 +3,8 @@ project(competitive_programming_2025)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(competitive_programming_2025 young_phisicist.cpp
-        beautiful_matrix.cpp
-        queue_school.cpp
-        borze.cpp
-        beautiful_year.cpp)
+add_executable(competitive_programming_2025 codeforces/young_phisicist.cpp
+        codeforces/beautiful_matrix.cpp
+        codeforces/queue_school.cpp
+        codeforces/borze.cpp
+        codeforces/beautiful_year.cpp)
