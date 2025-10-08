@@ -6,4 +6,5 @@ set(CMAKE_CXX_STANDARD 20)
 add_executable(competitive_programming_2025 young_phisicist.cpp
         beautiful_matrix.cpp
         queue_school.cpp
-        borze.cpp)
+        borze.cpp
+        beautiful_year.cpp)
