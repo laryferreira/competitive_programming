@@ -25,4 +25,7 @@ add_executable(competitive_programming_2025 codeforces/young_phisicist.cpp
         hackerRank/solveMeFirst.cpp
         codeforces/panoramix.cpp
         leetcode/1480.cpp
+        codeforces/chatroom.cpp
+        codeforces/stringtask.cpp
+        codeforces/petrandbook.cpp
 )

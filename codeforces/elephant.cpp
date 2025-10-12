@@ -2,13 +2,8 @@
 using namespace std;
 int main() {
     int x;
-    cin >> x;
-    int rm = 0; //remaining
-    int st = 0; //steps
-    int div;
-    div = x / 5;
-    if (div > 1) {
-
-    }
-        return 0;
+    if (!(cin >> x)) return 0; //if has no entry
+    int steps = x / 5 + (x % 5 != 0);
+    cout << steps << '\n';
+    return 0;
 }
