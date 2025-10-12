@@ -22,4 +22,7 @@ add_executable(competitive_programming_2025 codeforces/young_phisicist.cpp
         contests_pinkballon/A_c3.cpp
         contests_pinkballon/B_c3.cpp
         codeforces/souldier_bananas.cpp
+        hackerRank/solveMeFirst.cpp
+        codeforces/panoramix.cpp
+        leetcode/1480.cpp
 )
