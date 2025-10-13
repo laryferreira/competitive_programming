@@ -28,4 +28,8 @@ add_executable(competitive_programming_2025 codeforces/young_phisicist.cpp
         codeforces/chatroom.cpp
         codeforces/stringtask.cpp
         codeforces/petrandbook.cpp
+        codeforces/sum.cpp
+        codeforces/wrong_subtraction.cpp
+        codeforces/translation.cpp
+        codeforces/easy_problem.cpp
 )
