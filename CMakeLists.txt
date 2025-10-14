@@ -32,4 +32,14 @@ add_executable(competitive_programming_2025 codeforces/young_phisicist.cpp
         codeforces/wrong_subtraction.cpp
         codeforces/translation.cpp
         codeforces/easy_problem.cpp
+        codeforces/even_odds.cpp
+        codeforces/yesoryes.cpp
+        codeforces/amusing_joke.cpp
+        moj/jogo_par_impar.cpp
+        moj/drone.cpp
+        moj/planta_morango.cpp
+        moj/mobile.cpp
+        moj/fliper.cpp
+        moj/gangorra.cpp
+        moj/bacterias.cpp
 )
