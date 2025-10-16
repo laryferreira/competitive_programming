@@ -21,7 +21,6 @@ add_executable(competitive_programming_2025 codeforces/young_phisicist.cpp
         codeforces/elephant.cpp
         contests_pinkballon/A_c3.cpp
         contests_pinkballon/B_c3.cpp
-        codeforces/souldier_bananas.cpp
         hackerRank/solveMeFirst.cpp
         codeforces/panoramix.cpp
         leetcode/1480.cpp
@@ -45,4 +44,14 @@ add_executable(competitive_programming_2025 codeforces/young_phisicist.cpp
         moj/epidemia.cpp
         moj/internet.cpp
         codeforces/bitplusplus.cpp
+        codeforces/perfect_permutation.cpp
+        codeforces/soldier_bananas.cpp
+        moj/camisetas.cpp
+        moj/lampadas.cpp
+        moj/milhao.cpp
+        moj/domino.cpp
+        moj/ogro.cpp
+        moj/premio.cpp
+        moj/cinema.cpp
+        moj/hotel.cpp
 )
