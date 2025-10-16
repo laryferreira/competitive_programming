@@ -42,4 +42,7 @@ add_executable(competitive_programming_2025 codeforces/young_phisicist.cpp
         moj/fliper.cpp
         moj/gangorra.cpp
         moj/bacterias.cpp
+        moj/epidemia.cpp
+        moj/internet.cpp
+        codeforces/bitplusplus.cpp
 )
