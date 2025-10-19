@@ -57,4 +57,5 @@ add_executable(competitive_programming_2025 codeforces/young_phisicist.cpp
         codeforces/baverage.cpp
         codeforces/pangram.cpp
         codeforces/este_leste.cpp
+        moj/torneio.cpp
 )
